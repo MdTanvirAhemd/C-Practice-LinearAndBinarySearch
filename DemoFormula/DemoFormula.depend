@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635944691 source:c:\users\asus\onedrive\documents\codeblockscode\demoformula\main.cpp
+	<iostream>
+	<math.h>
+
